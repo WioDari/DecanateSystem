@@ -1,0 +1,91 @@
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Decanate.exe
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Decanate.deps.json
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Decanate.runtimeconfig.json
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Decanate.dll
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Decanate.pdb
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Humanizer.dll
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\MySqlConnector.dll
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.csproj.AssemblyReference.cache
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.Form1.resources
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.csproj.GenerateResource.cache
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.GeneratedMSBuildEditorConfig.editorconfig
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.AssemblyInfoInputs.cache
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.AssemblyInfo.cs
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.csproj.CoreCompileInputs.cache
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.csproj.CopyComplete
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.dll
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\refint\Decanate.dll
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.pdb
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.genruntimeconfig.cache
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\ref\Decanate.dll
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.DecanateForm.resources
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.DecanateData.resources
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.GroupForm.resources
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.GroupData.resources
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.StudentForm.resources
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.StudentData.resources
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.EvaluationForm.resources
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.EvaluationData.resources
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.PayFlowForm.resources
+C:\OSPanel\domains\localhost\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.PayFlowData.resources
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Decanate.exe
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Decanate.deps.json
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Decanate.runtimeconfig.json
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Decanate.dll
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Decanate.pdb
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Humanizer.dll
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\MySqlConnector.dll
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.csproj.AssemblyReference.cache
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.DecanateData.resources
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.DecanateForm.resources
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.EvaluationData.resources
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.EvaluationForm.resources
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.Form1.resources
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.GroupData.resources
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.GroupForm.resources
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.PayFlowData.resources
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.PayFlowForm.resources
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.StudentData.resources
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.StudentForm.resources
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.csproj.GenerateResource.cache
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.GeneratedMSBuildEditorConfig.editorconfig
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.AssemblyInfoInputs.cache
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.AssemblyInfo.cs
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.csproj.CoreCompileInputs.cache
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.csproj.CopyComplete
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.dll
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\refint\Decanate.dll
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.pdb
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.genruntimeconfig.cache
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\ref\Decanate.dll
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\bin\Debug\net6.0-windows\Decanate.dll.config
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.LogInForm.resources
+F:\Учёба\Программная инженерия\Visual\Лаб2\Basee\Decanate\Decanate\obj\Debug\net6.0-windows\Decanate.Profile.resources
