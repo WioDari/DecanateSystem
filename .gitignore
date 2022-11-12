@@ -1,0 +1,4 @@
+*.log
+.vs/
+Decanate/bin/
+Decanate/obj/
